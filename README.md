@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Binay Kumar
 
 You can use the [editor on GitHub](https://github.com/BINAYKUMAR943/binay_portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
