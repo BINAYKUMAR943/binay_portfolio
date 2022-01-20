@@ -1,5 +1,5 @@
 
-## Binay Kumar
+## Datascience Projects
 
 [Project 1: Classification of Loan using 4 differerent classification models](https://github.com/BINAYKUMAR943/Machine-Learning-with-python)
 
