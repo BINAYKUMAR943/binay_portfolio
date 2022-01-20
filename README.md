@@ -1,4 +1,15 @@
+
 ## Binay Kumar
+
+[Project 1: Classification of Loan using 4 differerent classification models](https://github.com/BINAYKUMAR943/Machine-Learning-with-python)
+
+1. Applying four different classifiers- K Nearest Neigbours (KNN), Decisison Trees, Support Vector Machines, Logistic Regression- to classify loan data. 
+2. Data are downloaded from this [data](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_train.csv)
+
+
+
+
+<!-- ## Binay Kumar
 
 You can use the [editor on GitHub](https://github.com/BINAYKUMAR943/binay_portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +45,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
