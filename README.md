@@ -4,11 +4,18 @@
 [Project 1: Classification of Loan using 4 differerent classification models](https://github.com/BINAYKUMAR943/Machine-Learning-with-python)
 
 1. Applying four different classifiers- K Nearest Neigbours (KNN), Decisison Trees, Support Vector Machines, Logistic Regression- to classify loan data. 
-2. Data are downloaded from this [data](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_train.csv)
+2. Data are downloaded from this [link](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_train.csv)
 
-[Project 2: Water Portability Classification](https://github.com/BINAYKUMAR943/WaterPotabilityClassification)
+[Project 2: Price prediction of house](https://github.com/BINAYKUMAR943/Data-Science)
+
+1. Prediction of price of Houses in Kings County, USA
+2. Data are downloaded from this [link](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DA0101EN/coursera/project/kc_house_data_NaN.csv)
+3. Using Linear regression model
+
+[Project 3: Water Portability Classification](https://github.com/BINAYKUMAR943/WaterPotabilityClassification)
 
 1. Binay classification problem. Water is classified into potable and non-potable
+2. Using Random forest classifier
 
 
 <!-- ## Binay Kumar
