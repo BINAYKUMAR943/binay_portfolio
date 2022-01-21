@@ -6,7 +6,9 @@
 1. Applying four different classifiers- K Nearest Neigbours (KNN), Decisison Trees, Support Vector Machines, Logistic Regression- to classify loan data. 
 2. Data are downloaded from this [data](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_train.csv)
 
+[Project 2: Water Portability Classification](https://github.com/BINAYKUMAR943/WaterPotabilityClassification)
 
+1. Binay classification problem. Water is classified into potable and non-potable
 
 
 <!-- ## Binay Kumar
