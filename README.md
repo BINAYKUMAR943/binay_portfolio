@@ -1,6 +1,6 @@
 
-## Datascience Projects
-
+## I am working on including some of my major data science projects in the portolio which is missing from it. It will be available by end of this week. Sorry for Inconvenience. 
+<!-- 
 [Project 1: Classification of Loan using 4 differerent classification models](https://github.com/BINAYKUMAR943/Machine-Learning-with-python)
 
 1. Applying four different classifiers- K Nearest Neigbours (KNN), Decisison Trees, Support Vector Machines, Logistic Regression- to classify loan data. 
@@ -35,7 +35,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- Bulleted -->
 - List
 
 1. Numbered
