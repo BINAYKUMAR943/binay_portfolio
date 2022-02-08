@@ -1,5 +1,5 @@
 
-## I am working on including some of my major data science projects in the portolio which is missing from it. It will be available by end of this week. Sorry for Inconvenience. 
+## I am working on including some of my major data science projects in the portolio which is missing from it. It will be available by end of this week. I am extremly sorry for inconvenience. 
 <!-- 
 [Project 1: Classification of Loan using 4 differerent classification models](https://github.com/BINAYKUMAR943/Machine-Learning-with-python)
 
